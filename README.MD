@@ -2,8 +2,9 @@
 Unix like shell module for php-fpm.
 
 ## resources:
++ https://github.com/musicode/test/issues/5
 
-## commands:
+## issues:
 
 Mac 自带 php-fpm，在终端执行 php-fpm，会报如下错误：
 ```conf
