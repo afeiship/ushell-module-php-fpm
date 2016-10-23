@@ -3,7 +3,7 @@
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
 ## start|stop|restart
-alias php-start='php-fpm';
+alias php-start='sudo php-fpm';
 alias php-check='ps aux | grep php-fpm';
 alias php-stop='sudo pkill php-fpm';
 
